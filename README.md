@@ -65,7 +65,7 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
   $ yarn start # ou npm start
 
   # Aplicação mobile
-  $ cd mobile
+  $ cd mob
   # Instalando as dependências do projeto.
   $ yarn # ou npm install
   # Inicie a aplicação mobile
