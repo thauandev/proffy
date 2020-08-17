@@ -1,0 +1,14 @@
+{
+  "name": "proffy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "/*"
+    ]
+  },
+  "repository": "https://github.com/thauandev/proffy.git",
+  "author": "thauandev <thauandepaula@icloud.com>",
+  "license": "MIT"
+}
